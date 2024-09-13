@@ -1,0 +1,20 @@
+/*df Empty css file that users can override in their own /assets/css/custom.css file */
+
+.lead{
+    font-size: 0.85rem
+}
+
+.sidebar-nav {
+    display: flex;
+    align-items: stretch;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.sidebar-nav .heading{
+    margin-top: 0.25em;
+    margin-right: 1em;
+    font-weight: 800;
+}
+
+
