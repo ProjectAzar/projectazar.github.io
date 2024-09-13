@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wayland on Project Azar</title>
+    <link>https://projectazar.com/tags/wayland/</link>
+    <description>Recent content in Wayland on Project Azar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2024 22:58:43 -0500</lastBuildDate>
+    <atom:link href="https://projectazar.com/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whyland</title>
+      <link>https://projectazar.com/posts/published/whyland/</link>
+      <pubDate>Tue, 18 Jun 2024 22:58:43 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/whyland/</guid>
+      <description>A short update today. I decided to try Fedora again, in part, due to a desire to get on to Wayland due to a sense of just instability I was experiencing in X11 (which I could not adequately identify) and because I just generally like the set of tools in Fedora more than the tools found in stock Ubuntu. Generally I mean I like dnf more than apt, I like some of the included software more (this isn&amp;rsquo;t a big deal and not worth a switch, just a minor preference).</description>
+    </item>
+    <item>
+      <title>Is It Time for Desktop Linux</title>
+      <link>https://projectazar.com/posts/published/is-it-time-for-desktop-linux/</link>
+      <pubDate>Sun, 09 Jun 2024 19:52:04 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/is-it-time-for-desktop-linux/</guid>
+      <description>You&amp;rsquo;ve likely heard by now about the impending nonsense coming to those of us still living in Windows land. If you haven&amp;rsquo;t, let me give you a few of the particular annoyances I&amp;rsquo;ve got with the 2024 planned changes:&#xA;AI incorporation into all aspects of the OS. Source Capturing every aspect of your computer, Source despite all the possible concerns associated with that idea. Source Even more advertising throughout the OS.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Azar</title>
+    <link>https://projectazar.com/</link>
+    <description>Recent content on Project Azar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 21:13:54 -0500</lastBuildDate>
+    <atom:link href="https://projectazar.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Admitting Defeat</title>
+      <link>https://projectazar.com/posts/admitting-defeat/</link>
+      <pubDate>Mon, 24 Jun 2024 21:13:54 -0500</pubDate>
+      <guid>https://projectazar.com/posts/admitting-defeat/</guid>
+      <description>Well, my desktop Linux experiment comes to an end for now, with a caveat.&#xA;After two weeks of trying to get comfortable with Wayland or dated X11, I&amp;rsquo;m putting a pause on my efforts to make the desktop switch, but I think it will truly only be a pause for now. The Nvidia situation is just not yet where it needs to be for me to be a happy camper. My options are either (a) use a display system that is no longer supported in my distro of choice, forcing me into another distro or (b) just get used to things like random crashing, window flickering, delayed text, and half solutions like explicit sync.</description>
+    </item>
+    <item>
+      <title>Lazy Is Anything But</title>
+      <link>https://projectazar.com/posts/lazy-is-anything-but/</link>
+      <pubDate>Thu, 20 Jun 2024 22:13:07 -0500</pubDate>
+      <guid>https://projectazar.com/posts/lazy-is-anything-but/</guid>
+      <description>Today I had a Hal with the Light Bulb moment.&#xA;The Switch Doesn&amp;rsquo;t Work I wanted to install a new package into Neovim so I could mess around with Neorg, an org-mode-like plugin. I want to try to get better at organizing myself and actually get working on creating things I want to do. The impetus for Neorg was a desire to start working on scripts for a podcast idea: &amp;ldquo;Uninteresting Stories to Induce Sleep.</description>
+    </item>
+    <item>
+      <title>Pop Pop Pop Goes the Speaker</title>
+      <link>https://projectazar.com/posts/published/pop-pop-pop-goes-the-speaker/</link>
+      <pubDate>Wed, 19 Jun 2024 13:54:18 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/pop-pop-pop-goes-the-speaker/</guid>
+      <description>I&amp;rsquo;m using this blog as a log of troubleshooting steps I&amp;rsquo;ve done before, so I don&amp;rsquo;t waste my time the next time I nuke my computer and try again. We&amp;rsquo;ll see if this is ever really helpful.&#xA;Today&amp;rsquo;s bug: audio-popping and lag when audio starts playing after sitting idle for a while.&#xA;Ah, this is a classic. I know I&amp;rsquo;ve solved this bug probably a dozen times in my life with Linux.</description>
+    </item>
+    <item>
+      <title>Whyland</title>
+      <link>https://projectazar.com/posts/published/whyland/</link>
+      <pubDate>Tue, 18 Jun 2024 22:58:43 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/whyland/</guid>
+      <description>A short update today. I decided to try Fedora again, in part, due to a desire to get on to Wayland due to a sense of just instability I was experiencing in X11 (which I could not adequately identify) and because I just generally like the set of tools in Fedora more than the tools found in stock Ubuntu. Generally I mean I like dnf more than apt, I like some of the included software more (this isn&amp;rsquo;t a big deal and not worth a switch, just a minor preference).</description>
+    </item>
+    <item>
+      <title>Is It Time for Desktop Linux</title>
+      <link>https://projectazar.com/posts/published/is-it-time-for-desktop-linux/</link>
+      <pubDate>Sun, 09 Jun 2024 19:52:04 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/is-it-time-for-desktop-linux/</guid>
+      <description>You&amp;rsquo;ve likely heard by now about the impending nonsense coming to those of us still living in Windows land. If you haven&amp;rsquo;t, let me give you a few of the particular annoyances I&amp;rsquo;ve got with the 2024 planned changes:&#xA;AI incorporation into all aspects of the OS. Source Capturing every aspect of your computer, Source despite all the possible concerns associated with that idea. Source Even more advertising throughout the OS.</description>
+    </item>
+    <item>
+      <title>Adventures in LSP-sitting</title>
+      <link>https://projectazar.com/posts/published/adventures-in-lspsitting/</link>
+      <pubDate>Tue, 04 Jun 2024 22:43:29 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/adventures-in-lspsitting/</guid>
+      <description>I&amp;rsquo;m fairly confident I&amp;rsquo;ve mentioned that I&amp;rsquo;m generally incompetent when it comes to the core competencies of a programmer. I am still learning the terminology for concepts I&amp;rsquo;ve used in the past like language formatting and completion in an IDE, while deploying them in my preferred &amp;ldquo;IDE&amp;rdquo; of choice, which is Neovim these days. Perhaps, as I continue this project of learning and writing about learing through this blog, I&amp;rsquo;ll bother to figure out how to properly use things like nvim-lsp and mason.</description>
+    </item>
+    <item>
+      <title>Menus Menus MENUS (and Tags)</title>
+      <link>https://projectazar.com/posts/menus/menus-and-tags/</link>
+      <pubDate>Sun, 02 Jun 2024 14:25:51 -0500</pubDate>
+      <guid>https://projectazar.com/posts/menus/menus-and-tags/</guid>
+      <description>In which, I learn how to poke at CSS until I get it to do what I want.&#xA;A Menu in So Many Words I am continuing my journey into learning about Hugo, and today I wanted to implement both a navigation menu in the side bar and tags on my posts. I began with the menu, thinking this would be easier than tags (Spoiler Alert: I was wrong).&#xA;Poison, my theme for this website, has a ready made layout for depolying a menu in the sidebar, but I didn&amp;rsquo;t like the defaults.</description>
+    </item>
+    <item>
+      <title>Schemeing for a Theming</title>
+      <link>https://projectazar.com/posts/published/schemeing-for-a-theming/</link>
+      <pubDate>Fri, 31 May 2024 21:02:07 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/schemeing-for-a-theming/</guid>
+      <description>Well then&amp;hellip;.I guess the last post didn&amp;rsquo;t remain relevant for long.&#xA;A New Theme I wanted to play around with theming this website, and I decided to go poking around on https://themes.gohugo.io/. I poked around at a few themes and decided to land on a theme called Poison by Luke Orth. A link to the theme github is on the side bar.&#xA;I chose this theme for a few reaons. First, I really enjoyed the layout.</description>
+    </item>
+    <item>
+      <title>Adding Authors</title>
+      <link>https://projectazar.com/posts/published/adding-authors/</link>
+      <pubDate>Thu, 30 May 2024 22:27:54 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/adding-authors/</guid>
+      <description>I spent a good chunk of last night playing around with trying to get an author, bio, and pic to appear on my posts. I have not had much of a reason to play with templates, and the tutorial I followed injected their own preferences while failing to offer much of a discussion on how to do things. So I figured I would write up what I did in case I need to do it again with a new template/theme or at a later date.</description>
+    </item>
+    <item>
+      <title>Hugo Lives</title>
+      <link>https://projectazar.com/posts/published/hugo-lives/</link>
+      <pubDate>Wed, 29 May 2024 22:32:40 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/hugo-lives/</guid>
+      <description>A New Venue for My Learning I&amp;rsquo;ve had this webspace for nearly a year and I&amp;rsquo;ve done absolutely nothing with it. No longer! I was motivated briefly to update my domain on bluesky, but I had not added anything to this website. So I decided to start diving into static website generators like I had wanted to for a long while.&#xA;I initially started with Pelican, but I got annoyed with the limited documentation on how to get the theme to actually play nice with my webhosts insistence that all files go into the &amp;ldquo;public_html&amp;rdquo; folder.</description>
+    </item>
+  </channel>
+</rss>

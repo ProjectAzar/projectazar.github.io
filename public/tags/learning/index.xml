@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Project Azar</title>
+    <link>https://projectazar.com/tags/learning/</link>
+    <description>Recent content in Learning on Project Azar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 14:25:51 -0500</lastBuildDate>
+    <atom:link href="https://projectazar.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menus Menus MENUS (and Tags)</title>
+      <link>https://projectazar.com/posts/menus/menus-and-tags/</link>
+      <pubDate>Sun, 02 Jun 2024 14:25:51 -0500</pubDate>
+      <guid>https://projectazar.com/posts/menus/menus-and-tags/</guid>
+      <description>In which, I learn how to poke at CSS until I get it to do what I want.&#xA;A Menu in So Many Words I am continuing my journey into learning about Hugo, and today I wanted to implement both a navigation menu in the side bar and tags on my posts. I began with the menu, thinking this would be easier than tags (Spoiler Alert: I was wrong).&#xA;Poison, my theme for this website, has a ready made layout for depolying a menu in the sidebar, but I didn&amp;rsquo;t like the defaults.</description>
+    </item>
+    <item>
+      <title>Schemeing for a Theming</title>
+      <link>https://projectazar.com/posts/published/schemeing-for-a-theming/</link>
+      <pubDate>Fri, 31 May 2024 21:02:07 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/schemeing-for-a-theming/</guid>
+      <description>Well then&amp;hellip;.I guess the last post didn&amp;rsquo;t remain relevant for long.&#xA;A New Theme I wanted to play around with theming this website, and I decided to go poking around on https://themes.gohugo.io/. I poked around at a few themes and decided to land on a theme called Poison by Luke Orth. A link to the theme github is on the side bar.&#xA;I chose this theme for a few reaons. First, I really enjoyed the layout.</description>
+    </item>
+    <item>
+      <title>Adding Authors</title>
+      <link>https://projectazar.com/posts/published/adding-authors/</link>
+      <pubDate>Thu, 30 May 2024 22:27:54 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/adding-authors/</guid>
+      <description>I spent a good chunk of last night playing around with trying to get an author, bio, and pic to appear on my posts. I have not had much of a reason to play with templates, and the tutorial I followed injected their own preferences while failing to offer much of a discussion on how to do things. So I figured I would write up what I did in case I need to do it again with a new template/theme or at a later date.</description>
+    </item>
+    <item>
+      <title>Hugo Lives</title>
+      <link>https://projectazar.com/posts/published/hugo-lives/</link>
+      <pubDate>Wed, 29 May 2024 22:32:40 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/hugo-lives/</guid>
+      <description>A New Venue for My Learning I&amp;rsquo;ve had this webspace for nearly a year and I&amp;rsquo;ve done absolutely nothing with it. No longer! I was motivated briefly to update my domain on bluesky, but I had not added anything to this website. So I decided to start diving into static website generators like I had wanted to for a long while.&#xA;I initially started with Pelican, but I got annoyed with the limited documentation on how to get the theme to actually play nice with my webhosts insistence that all files go into the &amp;ldquo;public_html&amp;rdquo; folder.</description>
+    </item>
+  </channel>
+</rss>

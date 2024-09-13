@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nvidia on Project Azar</title>
+    <link>https://projectazar.com/tags/nvidia/</link>
+    <description>Recent content in Nvidia on Project Azar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 21:13:54 -0500</lastBuildDate>
+    <atom:link href="https://projectazar.com/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Admitting Defeat</title>
+      <link>https://projectazar.com/posts/admitting-defeat/</link>
+      <pubDate>Mon, 24 Jun 2024 21:13:54 -0500</pubDate>
+      <guid>https://projectazar.com/posts/admitting-defeat/</guid>
+      <description>Well, my desktop Linux experiment comes to an end for now, with a caveat.&#xA;After two weeks of trying to get comfortable with Wayland or dated X11, I&amp;rsquo;m putting a pause on my efforts to make the desktop switch, but I think it will truly only be a pause for now. The Nvidia situation is just not yet where it needs to be for me to be a happy camper. My options are either (a) use a display system that is no longer supported in my distro of choice, forcing me into another distro or (b) just get used to things like random crashing, window flickering, delayed text, and half solutions like explicit sync.</description>
+    </item>
+    <item>
+      <title>Whyland</title>
+      <link>https://projectazar.com/posts/published/whyland/</link>
+      <pubDate>Tue, 18 Jun 2024 22:58:43 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/whyland/</guid>
+      <description>A short update today. I decided to try Fedora again, in part, due to a desire to get on to Wayland due to a sense of just instability I was experiencing in X11 (which I could not adequately identify) and because I just generally like the set of tools in Fedora more than the tools found in stock Ubuntu. Generally I mean I like dnf more than apt, I like some of the included software more (this isn&amp;rsquo;t a big deal and not worth a switch, just a minor preference).</description>
+    </item>
+    <item>
+      <title>Is It Time for Desktop Linux</title>
+      <link>https://projectazar.com/posts/published/is-it-time-for-desktop-linux/</link>
+      <pubDate>Sun, 09 Jun 2024 19:52:04 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/is-it-time-for-desktop-linux/</guid>
+      <description>You&amp;rsquo;ve likely heard by now about the impending nonsense coming to those of us still living in Windows land. If you haven&amp;rsquo;t, let me give you a few of the particular annoyances I&amp;rsquo;ve got with the 2024 planned changes:&#xA;AI incorporation into all aspects of the OS. Source Capturing every aspect of your computer, Source despite all the possible concerns associated with that idea. Source Even more advertising throughout the OS.</description>
+    </item>
+  </channel>
+</rss>

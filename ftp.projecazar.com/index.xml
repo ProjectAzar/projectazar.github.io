@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Azar: The Mildly Weird Midwest</title>
+    <link>https://projectazar.com/</link>
+    <description>Recent content on Project Azar: The Mildly Weird Midwest</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://projectazar.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

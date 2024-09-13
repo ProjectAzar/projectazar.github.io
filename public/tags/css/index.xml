@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on Project Azar</title>
+    <link>https://projectazar.com/tags/css/</link>
+    <description>Recent content in CSS on Project Azar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 14:25:51 -0500</lastBuildDate>
+    <atom:link href="https://projectazar.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menus Menus MENUS (and Tags)</title>
+      <link>https://projectazar.com/posts/menus/menus-and-tags/</link>
+      <pubDate>Sun, 02 Jun 2024 14:25:51 -0500</pubDate>
+      <guid>https://projectazar.com/posts/menus/menus-and-tags/</guid>
+      <description>In which, I learn how to poke at CSS until I get it to do what I want.&#xA;A Menu in So Many Words I am continuing my journey into learning about Hugo, and today I wanted to implement both a navigation menu in the side bar and tags on my posts. I began with the menu, thinking this would be easier than tags (Spoiler Alert: I was wrong).&#xA;Poison, my theme for this website, has a ready made layout for depolying a menu in the sidebar, but I didn&amp;rsquo;t like the defaults.</description>
+    </item>
+  </channel>
+</rss>

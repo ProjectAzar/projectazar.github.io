@@ -1,0 +1,29 @@
+baseURL = 'https://projectazar.com'
+languageCode = 'en-us'
+title = 'Project Azar'
+theme = 'poison'
+paganate = 10
+
+[taxonomies]
+    author = "authors"
+    tag = "tags"
+    category = "categories"
+    home = "home"
+
+[params]
+    brand = "Chris \"Project Azar\" Teters"
+    dark_mode= true
+    description = "Consumer Protection and Antitrust Enforcement Lawyer. Debate and Forensics Coach. Tech Enthusiast. Occasional Programmer. Sporadic Writer. ADHD Haver. Kansan."
+    
+    brand_image = "/authors/chris-teters.jpg"
+    og_image = "images/site/chris-teters.jpg"
+    front_page_content = ["posts"]
+
+    bluesky_url = "https://bsky.app/profile/projectazar.com"
+    github_url = "https://github.com/ProjectAzar"
+
+    menu = [
+        {Name = "Home", URL = "/"},
+        {Name = "Posts", URL = "/posts/"}, 
+        {Name = "Tags", URL = "/tags/" },
+    ]
