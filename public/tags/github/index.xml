@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHUb on Project Azar</title>
+    <link>https://projectazar.com/tags/github/</link>
+    <description>Recent content in GitHUb on Project Azar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Sep 2024 15:26:39 -0500</lastBuildDate>
+    <atom:link href="https://projectazar.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating to Github</title>
+      <link>https://projectazar.com/posts/migrating-to-github/</link>
+      <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
+      <guid>https://projectazar.com/posts/migrating-to-github/</guid>
+      <description>Oh. You&amp;rsquo;re back. It&amp;rsquo;s been a while, and let me tell you, the last few months were a hoot. Three depositions, one mediation, thousands of emails, and I bought a house.&#xA;But that&amp;rsquo;s not why you&amp;rsquo;re here. You&amp;rsquo;re here for some technical nonsense.&#xA;&amp;ldquo;Lifetime&amp;rdquo; Hosting When I first started this website, I used a host called iBrave. Sometime last year, I saw a great deal: a lifetime of hosting service for $30, with unlimited bandwidth, and basic features like one-click solutions for platforms like WordPress.</description>
+    </item>
+  </channel>
+</rss>

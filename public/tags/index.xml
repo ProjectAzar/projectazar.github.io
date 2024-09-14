@@ -6,8 +6,43 @@
     <description>Recent content on Project Azar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jun 2024 21:13:54 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 15:26:39 -0500</lastBuildDate>
     <atom:link href="https://projectazar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNS</title>
+      <link>https://projectazar.com/tags/dns/</link>
+      <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
+      <guid>https://projectazar.com/tags/dns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://projectazar.com/tags/git/</link>
+      <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
+      <guid>https://projectazar.com/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHUb</title>
+      <link>https://projectazar.com/tags/github/</link>
+      <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
+      <guid>https://projectazar.com/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>https://projectazar.com/tags/web-development/</link>
+      <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
+      <guid>https://projectazar.com/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website</title>
+      <link>https://projectazar.com/tags/website/</link>
+      <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
+      <guid>https://projectazar.com/tags/website/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Drivers</title>
       <link>https://projectazar.com/tags/drivers/</link>
@@ -139,13 +174,6 @@
       <link>https://projectazar.com/tags/learning/</link>
       <pubDate>Sun, 02 Jun 2024 14:25:51 -0500</pubDate>
       <guid>https://projectazar.com/tags/learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web Development</title>
-      <link>https://projectazar.com/tags/web-development/</link>
-      <pubDate>Sun, 02 Jun 2024 14:25:51 -0500</pubDate>
-      <guid>https://projectazar.com/tags/web-development/</guid>
       <description></description>
     </item>
   </channel>

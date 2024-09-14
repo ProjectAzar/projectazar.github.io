@@ -3,9 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://projectazar.com/tags/</loc>
-    <lastmod>2024-06-24T21:13:54-05:00</lastmod>
+    <lastmod>2024-09-13T15:26:39-05:00</lastmod>
   </url><url>
-    <loc>https://projectazar.com/posts/admitting-defeat/</loc>
+    <loc>https://projectazar.com/tags/dns/</loc>
+    <lastmod>2024-09-13T15:26:39-05:00</lastmod>
+  </url><url>
+    <loc>https://projectazar.com/tags/git/</loc>
+    <lastmod>2024-09-13T15:26:39-05:00</lastmod>
+  </url><url>
+    <loc>https://projectazar.com/tags/github/</loc>
+    <lastmod>2024-09-13T15:26:39-05:00</lastmod>
+  </url><url>
+    <loc>https://projectazar.com/posts/migrating-to-github/</loc>
+    <lastmod>2024-09-13T15:26:39-05:00</lastmod>
+  </url><url>
+    <loc>https://projectazar.com/posts/</loc>
+    <lastmod>2024-09-13T15:26:39-05:00</lastmod>
+  </url><url>
+    <loc>https://projectazar.com/</loc>
+    <lastmod>2024-09-13T15:26:39-05:00</lastmod>
+  </url><url>
+    <loc>https://projectazar.com/tags/web-development/</loc>
+    <lastmod>2024-09-13T15:26:39-05:00</lastmod>
+  </url><url>
+    <loc>https://projectazar.com/tags/website/</loc>
+    <lastmod>2024-09-13T15:26:39-05:00</lastmod>
+  </url><url>
+    <loc>https://projectazar.com/posts/published/admitting-defeat/</loc>
     <lastmod>2024-06-24T21:13:54-05:00</lastmod>
   </url><url>
     <loc>https://projectazar.com/tags/drivers/</loc>
@@ -17,19 +41,13 @@
     <loc>https://projectazar.com/tags/nvidia/</loc>
     <lastmod>2024-06-24T21:13:54-05:00</lastmod>
   </url><url>
-    <loc>https://projectazar.com/posts/</loc>
-    <lastmod>2024-06-24T21:13:54-05:00</lastmod>
-  </url><url>
-    <loc>https://projectazar.com/</loc>
-    <lastmod>2024-06-24T21:13:54-05:00</lastmod>
-  </url><url>
     <loc>https://projectazar.com/tags/windows/</loc>
     <lastmod>2024-06-24T21:13:54-05:00</lastmod>
   </url><url>
     <loc>https://projectazar.com/tags/lazy/</loc>
     <lastmod>2024-06-20T22:13:07-05:00</lastmod>
   </url><url>
-    <loc>https://projectazar.com/posts/lazy-is-anything-but/</loc>
+    <loc>https://projectazar.com/posts/published/lazy-is-anything-but/</loc>
     <lastmod>2024-06-20T22:13:07-05:00</lastmod>
   </url><url>
     <loc>https://projectazar.com/tags/neorg/</loc>
@@ -87,9 +105,6 @@
     <lastmod>2024-06-02T14:25:51-05:00</lastmod>
   </url><url>
     <loc>https://projectazar.com/posts/menus/menus-and-tags/</loc>
-    <lastmod>2024-06-02T14:25:51-05:00</lastmod>
-  </url><url>
-    <loc>https://projectazar.com/tags/web-development/</loc>
     <lastmod>2024-06-02T14:25:51-05:00</lastmod>
   </url><url>
     <loc>https://projectazar.com/posts/published/schemeing-for-a-theming/</loc>

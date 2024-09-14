@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<script defer language="javascript" type="text/javascript" src="/js/bundle.min.145453261a7755f5042a854c4213501d215a8fbe34c08d181c40f803f1315e74.js"></script>
+
+
+
+
+
+  
+
+
+
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+    <link rel="icon" href=/favicon.png>
+
+    
+    
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+
+
+<!-- Open Graph image and Twitter Card metadata -->
+
+  <meta property="og:image" content="/images/site/chris-teters.jpg" />
+  <meta name="twitter:image" content="/images/site/chris-teters.jpg"/>
+      <meta name="twitter:card" content="summary">
+    <meta property="og:image:width" content="1000">
+    <meta property="og:image:height" content="1000">
+    <meta property="og:image:type" content="image/jpeg">
+
+<title itemprop="name">Chris &#34;Project Azar&#34; Teters - Migrating to Github</title>
+<meta property="og:title" content=Chris&#32;&#34;Project&#32;Azar&#34;&#32;Teters&#32;-&#32;Migrating&#32;to&#32;Github />
+<meta name="twitter:title" content=Chris&#32;&#34;Project&#32;Azar&#34;&#32;Teters&#32;-&#32;Migrating&#32;to&#32;Github />
+<meta itemprop="name" content=Chris&#32;&#34;Project&#32;Azar&#34;&#32;Teters&#32;-&#32;Migrating&#32;to&#32;Github />
+<meta name="application-name" content=Chris&#32;&#34;Project&#32;Azar&#34;&#32;Teters&#32;-&#32;Migrating&#32;to&#32;Github />
+<meta property="og:site_name" content="Project Azar" />
+
+
+<meta name="description" content="" />
+<meta itemprop="description" content="" />
+<meta property="og:description" content="" />
+<meta name="twitter:description" content="" />
+
+
+<base href="https://projectazar.com/posts/migrating-to-github/" />
+<link rel="canonical" href="https://projectazar.com/posts/migrating-to-github/" itemprop="url" />
+<meta name="url" content="https://projectazar.com/posts/migrating-to-github/" />
+<meta name="twitter:url" content="https://projectazar.com/posts/migrating-to-github/" />
+<meta property="og:url" content="https://projectazar.com/posts/migrating-to-github/" />
+
+
+<meta property="og:updated_time" content="2024-09-13T15:26:39-05:00" />
+
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href='https://projectazar.com/sitemap.xml' />
+
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow" />
+
+
+<meta name="twitter:site" content="" />
+<meta name="twitter:creator" content="" />
+<meta property="fb:admins" content="" />
+
+
+<meta name="apple-mobile-web-app-title" content="Project Azar" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.133.1">
+
+
+    
+    
+
+<link type="text/css" rel="stylesheet" href="/css/bundle.min.b43ac92290b7baf91aee6d4f01792ee2ccffe2ef5153f0261c5539a029364ff4.css">
+
+
+    
+    <style>
+    body {
+        --sidebar-bg-color: #202020;
+        --sidebar-img-border-color: #515151;
+        --sidebar-p-color: #909090;
+        --sidebar-h1-color: #FFF;
+        --sidebar-a-color: #FFF;
+        --sidebar-socials-color: #FFF;
+        --text-color: #222;
+        --bkg-color: #FAF9F6;
+        --post-title-color: #303030;
+        --list-color: #5a5a5a;
+        --link-color: #268bd2;
+        --date-color: #515151;
+        --table-border-color: #E5E5E5;
+        --table-stripe-color: #F9F9F9;
+        --code-color: #000;
+        --code-background-color: #E5E5E5;
+        --code-block-color: #fff;
+        --code-block-background-color: #272822;
+        --moon-sun-color: #FFF;
+        --moon-sun-background-color: #515151;
+    }
+    body.dark-theme {
+        --text-color: #eee;
+        --bkg-color: #121212;
+        --post-title-color: #DBE2E9;
+        --list-color: #9d9d9d;
+        --link-color: #268bd2;
+        --date-color: #9a9a9a;
+        --table-border-color: #515151;
+        --table-stripe-color: #202020;
+        --code-color: #fff;
+        --code-background-color: #515151;
+        --code-block-color: #fff;
+        --code-block-background-color: #272822;
+    }
+    body {
+        background-color: var(--bkg-color);
+    }
+</style>
+
+</head>
+
+    <body class="dark-theme">
+        <div class="wrapper">
+            <aside class="sidebar">
+    <div class="container sidebar-sticky">
+        <div class="light-dark" align="right">
+    <button class="btn-light-dark" title="Toggle light/dark mode">
+        <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 16 16">
+            <path fill="currentColor" d="M6 .278a.768.768 0 0 1 .08.858a7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277c.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316a.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71C0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+        </svg>
+        <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 16 16">
+            <path fill="currentColor" d="M8 12a4 4 0 1 0 0-8a4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+        </svg>
+    </button>
+</div>
+
+        <div class="sidebar-about">
+    <h1 class="brand">
+        
+            <a href="https://projectazar.com/">
+                <img src="/authors/chris-teters.jpg" alt="brand image">
+            </a>
+        
+        
+            <a href="https://projectazar.com/">
+                <h1>Chris &#34;Project Azar&#34; Teters</h1>
+            </a>
+        
+    </h1>
+    <p class="lead">
+    Consumer Protection and Antitrust Enforcement Lawyer. Debate and Forensics Coach. Tech Enthusiast. Occasional Programmer. Sporadic Writer. ADHD Haver. Kansan.
+    </p>
+</div>
+
+        <nav>
+    <ul class="sidebar-nav">
+
+        
+        
+        
+        
+            
+
+            
+                
+                
+            
+            
+                
+                
+                        
+                
+            
+                
+                
+            
+                
+                    <li class="heading">
+                        <a href="/">Home</a>
+                    </li>
+                
+                
+            
+                
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+            
+        
+        
+            
+
+            
+                
+                
+                    <li class="heading">
+                        <a href="/posts/">Posts</a>
+                    </li>
+                    
+                
+            
+            
+                
+                
+                        
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+            
+        
+        
+            
+
+            
+                
+                
+            
+            
+                
+                
+                        
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                    <li class="heading">
+                        <a href="/tags/">Tags</a>
+                    </li>
+                
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+            
+        
+
+    </ul>
+</nav>
+
+        
+    <a target="_blank" class="social" title="GitHub" href="https://github.com/ProjectAzar">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="-2 -2 24 24">
+            <path fill="currentColor" d="M18.88 1.099C18.147.366 17.265 0 16.233 0H3.746C2.714 0 1.832.366 1.099 1.099C.366 1.832 0 2.714 0 3.746v12.487c0 1.032.366 1.914 1.099 2.647c.733.733 1.615 1.099 2.647 1.099H6.66c.19 0 .333-.007.429-.02a.504.504 0 0 0 .286-.169c.095-.1.143-.245.143-.435l-.007-.885c-.004-.564-.006-1.01-.006-1.34l-.3.052c-.19.035-.43.05-.721.046a5.555 5.555 0 0 1-.904-.091a2.026 2.026 0 0 1-.872-.39a1.651 1.651 0 0 1-.572-.8l-.13-.3a3.25 3.25 0 0 0-.41-.663c-.186-.243-.375-.407-.566-.494l-.09-.065a.956.956 0 0 1-.17-.156a.723.723 0 0 1-.117-.182c-.026-.061-.004-.111.065-.15c.07-.04.195-.059.378-.059l.26.04c.173.034.388.138.643.311a2.1 2.1 0 0 1 .631.677c.2.355.44.626.722.813c.282.186.566.28.852.28c.286 0 .533-.022.742-.065a2.59 2.59 0 0 0 .585-.196c.078-.58.29-1.028.637-1.34a8.907 8.907 0 0 1-1.333-.234a5.314 5.314 0 0 1-1.223-.507a3.5 3.5 0 0 1-1.047-.872c-.277-.347-.505-.802-.683-1.365c-.177-.564-.266-1.215-.266-1.952c0-1.049.342-1.942 1.027-2.68c-.32-.788-.29-1.673.091-2.652c.252-.079.625-.02 1.119.175c.494.195.856.362 1.086.5c.23.14.414.257.553.352a9.233 9.233 0 0 1 2.497-.338c.859 0 1.691.113 2.498.338l.494-.312a6.997 6.997 0 0 1 1.197-.572c.46-.174.81-.221 1.054-.143c.39.98.424 1.864.103 2.653c.685.737 1.028 1.63 1.028 2.68c0 .737-.089 1.39-.267 1.957c-.177.568-.407 1.023-.689 1.366a3.65 3.65 0 0 1-1.053.865c-.42.234-.828.403-1.223.507a8.9 8.9 0 0 1-1.333.235c.45.39.676 1.005.676 1.846v3.11c0 .147.021.266.065.357a.36.36 0 0 0 .208.189c.096.034.18.056.254.064c.074.01.18.013.318.013h2.914c1.032 0 1.914-.366 2.647-1.099c.732-.732 1.099-1.615 1.099-2.647V3.746c0-1.032-.367-1.914-1.1-2.647z"/>
+        </svg>
+    </a>
+
+
+
+
+
+    <a target="_blank" class="social" title="Bluesky" href="https://bsky.app/profile/projectazar.com">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewbox="0 0 360 320">
+            <path fill="currentColor" d="M180 142c-16.3-31.7-60.7-90.8-102-120C38.5-5.9 23.4-1 13.5 3.4 2.1 8.6 0 26.2 0 36.5c0 10.4 5.7 84.8 9.4 97.2 12.2 41 55.7 55 95.7 50.5-58.7 8.6-110.8 30-42.4 106.1 75.1 77.9 103-16.7 117.3-64.6 14.3 48 30.8 139 116 64.6 64-64.6 17.6-97.5-41.1-106.1 40 4.4 83.5-9.5 95.7-50.5 3.7-12.4 9.4-86.8 9.4-97.2 0-10.3-2-27.9-13.5-33C336.5-1 321.5-6 282 22c-41.3 29.2-85.7 88.3-102 120Z"/> 
+        </svg>
+    </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <p class="footnote">
+powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a target="_blank" href="https://github.com/lukeorth/poison">poison</a>
+    <br>
+    &copy; 2024 Project Azar. All rights reserved.
+
+    Nothing on this website is legal advice. If you have legal questions, seek out competent legal counsel in your jurisdiction.
+</p>
+
+  </div>
+</aside>
+
+            <main class="content container">
+                <div class="post">
+  <div class="info">
+  <h1 class="post-title">
+    <a href="https://projectazar.com/posts/migrating-to-github/">Migrating to Github</a>
+  </h1>
+
+  <div class="headline">
+    <div>
+      
+      <time datetime=" 2024-09-13T15:26:39-0500" class="post-date">
+        September 13, 2024
+      </time>
+      
+      <span> - </span>
+      <span class="reading-time">
+        
+          
+        
+
+        <span>5 mins read</span>
+      </span>
+    </div>
+
+    
+    <ul class="tags">
+      
+      <li class="tag-git">
+        <a href="https://projectazar.com/tags/git">git</a>
+      </li>
+      
+      <li class="tag-GitHUb">
+        <a href="https://projectazar.com/tags/github">GitHUb</a>
+      </li>
+      
+      <li class="tag-DNS">
+        <a href="https://projectazar.com/tags/dns">DNS</a>
+      </li>
+      
+      <li class="tag-website">
+        <a href="https://projectazar.com/tags/website">website</a>
+      </li>
+      
+      <li class="tag-web development">
+        <a href="https://projectazar.com/tags/web-development">web development</a>
+      </li>
+      
+    </ul>
+    
+  </div>
+
+  
+  
+
+  
+</div>
+
+  <p>Oh. You&rsquo;re back. It&rsquo;s been a while, and let me tell you, the last few months were a hoot. Three depositions, one mediation, thousands of emails, and <em>I bought a house</em>.</p>
+<p>But that&rsquo;s not why you&rsquo;re here. You&rsquo;re here for some technical nonsense.</p>
+<h2 id="lifetime-hosting">&ldquo;Lifetime&rdquo; Hosting</h2>
+<p>When I first started this website, I used a host called iBrave. Sometime last year, I saw a great deal: a lifetime of hosting service for $30, with unlimited bandwidth, and basic features like one-click solutions for platforms like WordPress. The more experienced in the audience already have alarm klaxons sounding, but I, even knowing this would not last forever, thought it would be worth it.</p>
+<p>Turns out that the lifetime of this deal is exactly 11 months.</p>
+<p>However, I can safely say I think even $30 was worth it for the experience of using the platform. On any other platform, I would have paid as much or more for the same, or often worse, hosting from other platforms. Because I paid for this lifetime plan, I had the opportunity to learn new skills, like developing this website using a static site generator and minor CSS to customize things how I want. Plus, I did not feel pressure to write just to make my payment worth it.</p>
+<p>iBrave&rsquo;s management portal honestly needed work. It was slow, behind multiple layers of authentication and panels, and making simple changes seemed to take more steps than necessary. Will I miss iBrave as a platform? No, I cannot say I will. It was easier to use than GoDaddy and faster than BlueHost, but it was still a mess of frustrations as you can expect for a budget web host. We can say goodbye to platform, but we do not have to say goodbye to the website.</p>
+<h2 id="github-now-with-pages">GitHub, Now With Pages</h2>
+<p>When I got word that iBrave was collapsing, they offered a deal with to migrate to another host with a monthly fee. I briefly looked at the option, but frankly, I do not use this space enough to warrant paying $5 a month, let alone what I would have to pay in a year. I looked around at the old and new hosts, and nothing really struck me as a worthwhile deal.</p>
+<p>I briefly considered using my server as a webhost, but I&rsquo;m hesitant to expose my home network to yet another route from the open public. I do need to learn how to setup a secure reverse proxy or remote access approach for my server, but I imagine that is a project for another day.</p>
+<p>I planned to just let this space go as yet another attempt at a website that I decided was not worth it; but then I remembered a key point. GitHub allows for the creation of Pages. This is a minimal static site, barely even a blog. The site is largely focused on tech issues. GitHub may be the perfect place to not only house the repository of the raw website, but also display the processed pages.</p>
+<p>Now to figure out how.</p>
+<h2 id="the-perks-of-being-an-automated-workflow">The Perks of Being an Automated Workflow</h2>
+<p>Did you know that when you stop working with a Hugo server for three months, you forget most of how the server is organized or how the tool works when you try to migrate the platform. Is that just me?</p>
+<p>Setting up a repo to act as a website for GitHub is honestly a trivial step. You just create a new one with the <!-- raw HTML omitted -->.github.io format. The hard part, is remembering how to actually interface git, GitHub, and Hugo. Let me tell you, I made that way harder than it needed to be.</p>
+<p>I had forgotten Hugo puts all processed &ldquo;public&rdquo; information into the public subfolder, and all I needed to upload was the &ldquo;public&rdquo; folder. Instead, I kept attempting to push the entire Hugo project to GitHub, improperly added sub modules and all.</p>
+<p>Well, I uploaded the &ldquo;public&rdquo; folder (after adding and failing to quickly remove hundreds of files necessitating a full deletion and recreation of the repo), and boom! Website was back in action. However, in my research on how to do this properly, I learned I could do something even better. GitHub is an advanced platform, and it is able to not only recognize a Hugo project, but it can process content in real time and ensure it is displayed properly, all with a simple automated workflow. GitHub has a stock, automated workflow that required no modification to deploy. All I had to do was upload the full Hugo project (while ensuring my customized theme was no longer acting like a git repo itself), add the workflow and presto. You&rsquo;ve got a fully functional website.</p>
+<p>This changes my content creation workflow from both creating new posts, processing them, and then uploading via an FTP port on a specific IP to creating a raw post and pushing it from an authorized device. GitHub handles the processing and displaying of the page.</p>
+<p>And its free (at least for now)!.</p>
+<h3 id="the-dns-contingency">The DNS Contingency</h3>
+<p>With iBrave, I pointed my domain to iBrave&rsquo;s name servers and it handled most of my basic DNS. Well, GitHub is not so kind. I need to create my own custom A and CNAME DNS entries to ensure that my custom domain will work as expected. Unfortunately, DNS stands for Did Not Study. And I am not great with DNS.</p>
+<p>Adding the A entries was easy enough, and so, you should be able to access this website by going to &ldquo;<a href="http://projectazar.com" target="_blank">http://projectazar.com</a>&rdquo;. However, I want HTTPS and I want www to also be available. Here&rsquo;s where Domain.com&rsquo;s DNS manager is a pain. I&rsquo;ve added a WWW entry, though I need to edit it and Domain will not allow it until it finishes making other DNS updates. With other hosts, while DNS updates could take 24 hours, most were propagated within minutes to an hour. Here, I&rsquo;m not having as much luck.</p>
+<p>We&rsquo;ll see if, in the near future, I&rsquo;ll be able to get my domains situated. If I do, I&rsquo;ll post a quick update.</p>
+<p>But for now, the website is migrated and saved.</p>
+<p>Until next time.</p>
+
+  
+  <hr>
+<div class="footer">
+    
+	    
+            <a class="previous-post" href="https://projectazar.com/posts/published/admitting-defeat/?ref=footer"><span style="font-weight:bold;">« Previous</span><br>Admitting Defeat</a>
+        
+	    
+    
+</div>
+
+</div>
+            </main>
+            
+  
+    <div class="article-toc ">
+    <div class="toc-wrapper">
+      <h4 id="contents"></h4>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#lifetime-hosting">&ldquo;Lifetime&rdquo; Hosting</a></li>
+    <li><a href="#github-now-with-pages">GitHub, Now With Pages</a></li>
+    <li><a href="#the-perks-of-being-an-automated-workflow">The Perks of Being an Automated Workflow</a>
+      <ul>
+        <li><a href="#the-dns-contingency">The DNS Contingency</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </div>
+</div>
+
+  
+
+        </div>
+    </body>
+</html>

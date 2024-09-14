@@ -6,20 +6,27 @@
     <description>Recent content in Posts on Project Azar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jun 2024 21:13:54 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 15:26:39 -0500</lastBuildDate>
     <atom:link href="https://projectazar.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Migrating to Github</title>
+      <link>https://projectazar.com/posts/migrating-to-github/</link>
+      <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
+      <guid>https://projectazar.com/posts/migrating-to-github/</guid>
+      <description>Oh. You&amp;rsquo;re back. It&amp;rsquo;s been a while, and let me tell you, the last few months were a hoot. Three depositions, one mediation, thousands of emails, and I bought a house.&#xA;But that&amp;rsquo;s not why you&amp;rsquo;re here. You&amp;rsquo;re here for some technical nonsense.&#xA;&amp;ldquo;Lifetime&amp;rdquo; Hosting When I first started this website, I used a host called iBrave. Sometime last year, I saw a great deal: a lifetime of hosting service for $30, with unlimited bandwidth, and basic features like one-click solutions for platforms like WordPress.</description>
+    </item>
+    <item>
       <title>Admitting Defeat</title>
-      <link>https://projectazar.com/posts/admitting-defeat/</link>
+      <link>https://projectazar.com/posts/published/admitting-defeat/</link>
       <pubDate>Mon, 24 Jun 2024 21:13:54 -0500</pubDate>
-      <guid>https://projectazar.com/posts/admitting-defeat/</guid>
+      <guid>https://projectazar.com/posts/published/admitting-defeat/</guid>
       <description>Well, my desktop Linux experiment comes to an end for now, with a caveat.&#xA;After two weeks of trying to get comfortable with Wayland or dated X11, I&amp;rsquo;m putting a pause on my efforts to make the desktop switch, but I think it will truly only be a pause for now. The Nvidia situation is just not yet where it needs to be for me to be a happy camper. My options are either (a) use a display system that is no longer supported in my distro of choice, forcing me into another distro or (b) just get used to things like random crashing, window flickering, delayed text, and half solutions like explicit sync.</description>
     </item>
     <item>
       <title>Lazy Is Anything But</title>
-      <link>https://projectazar.com/posts/lazy-is-anything-but/</link>
+      <link>https://projectazar.com/posts/published/lazy-is-anything-but/</link>
       <pubDate>Thu, 20 Jun 2024 22:13:07 -0500</pubDate>
-      <guid>https://projectazar.com/posts/lazy-is-anything-but/</guid>
+      <guid>https://projectazar.com/posts/published/lazy-is-anything-but/</guid>
       <description>Today I had a Hal with the Light Bulb moment.&#xA;The Switch Doesn&amp;rsquo;t Work I wanted to install a new package into Neovim so I could mess around with Neorg, an org-mode-like plugin. I want to try to get better at organizing myself and actually get working on creating things I want to do. The impetus for Neorg was a desire to start working on scripts for a podcast idea: &amp;ldquo;Uninteresting Stories to Induce Sleep.</description>
     </item>
     <item>

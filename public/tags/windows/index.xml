@@ -10,9 +10,9 @@
     <atom:link href="https://projectazar.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Admitting Defeat</title>
-      <link>https://projectazar.com/posts/admitting-defeat/</link>
+      <link>https://projectazar.com/posts/published/admitting-defeat/</link>
       <pubDate>Mon, 24 Jun 2024 21:13:54 -0500</pubDate>
-      <guid>https://projectazar.com/posts/admitting-defeat/</guid>
+      <guid>https://projectazar.com/posts/published/admitting-defeat/</guid>
       <description>Well, my desktop Linux experiment comes to an end for now, with a caveat.&#xA;After two weeks of trying to get comfortable with Wayland or dated X11, I&amp;rsquo;m putting a pause on my efforts to make the desktop switch, but I think it will truly only be a pause for now. The Nvidia situation is just not yet where it needs to be for me to be a happy camper. My options are either (a) use a display system that is no longer supported in my distro of choice, forcing me into another distro or (b) just get used to things like random crashing, window flickering, delayed text, and half solutions like explicit sync.</description>
     </item>
     <item>
