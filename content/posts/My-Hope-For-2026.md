@@ -72,6 +72,7 @@ At the end of 2026, I want my friends to know me, not just of me.
 I have an extra raspberry pi sitting on my desk, among a pile of mechanical keyboard switches, keycaps, and a naked keyboard. I took a week off at the end of 2025, with a goal of learning how to use FreeCAD to design a wedge compute like a Commodore 64 or Apple II. This shouldn't be that hard of a project, the worst part of it is learning a tool I have never used. And yet, the keycaps sat for weeks, the board untouched, and the design little more than scratches on paper and a vague smoke of an idea. I'm giving myself a year to get this done. What am I going to do with this computer? How dare you ask me such a thing. The project is not for the use, it is for the doing! And when I look back at 2026, I want to be done.
 
 4. Dust of the blog and write you lazy bastard!
+
 I started writing just to write, but every step of the way I second guess or doubt or realize how untalented and unintelligent I am. I want to act like I'm smart, and so many people in my life for years have said, "Oh you are so smart" or "Oh you could be a professor." I think the fact that I submitted multiple applications and never got so much as a callback killed my idea that I have anything better than average intelligence. And suddenly, all the ideas I thought I had were mundane, obvious, and ignorant. 
 
 I think a mocking bluesky response from an elder helped cement that idea.
@@ -81,6 +82,7 @@ But fuck it. In fascism, dominated by the lazies thinkers, worst take-havers, an
 Fuck it. I'm publishing my drafts. 
 
 5. I love. Smile more.
+
 In my darkest days of undergrad, when I experienced severe depression for the first time in my life, and before I had words to even describe what I was experiencing, I coined a phrase to remind myself that I am not the horrible monster the shadow in my mind described at length. "I love. Smile more." And sure Hamilton maybe gives that second part a much darker tone these days, but I find myself clinging to those words at this moment. I love. I am a being capable of love. I am someone who loves others and that love is both justified and unjustified. It does not matter. It exists. It should exists. It is good that exists. I love. And love is a necessary condition to build a better world. 
 
 Laughter fights fear. Laughter fights anger. Mirth. Joy. Enjoyment of existence. These are tools to fight fascism in the self. What experts of fascism tell us is that it is not the violence that keeps people in line. It is the internalization of the discipline of fascism that keeps people in darkness. In fear. In anger. In stupefaction. Smiling, and meaning it from the bottom of my soul, from a place of love, counteracts the discipline of fascism. It creates internally a permission structure to accept and love myself and thus love others. Without the capacity to smile, I am without the capacity to resist. So smiling. Loving. This is resistance. This smile kills fascism. 
