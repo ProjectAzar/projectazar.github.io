@@ -6,13 +6,27 @@
     <description>Recent content on Project Azar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Sep 2024 15:26:39 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 19:14:49 -0500</lastBuildDate>
     <atom:link href="https://projectazar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DNS</title>
       <link>https://projectazar.com/tags/dns/</link>
-      <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
+      <pubDate>Sat, 14 Sep 2024 19:14:49 -0500</pubDate>
       <guid>https://projectazar.com/tags/dns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHUb</title>
+      <link>https://projectazar.com/tags/github/</link>
+      <pubDate>Sat, 14 Sep 2024 19:14:49 -0500</pubDate>
+      <guid>https://projectazar.com/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://projectazar.com/tags/hugo/</link>
+      <pubDate>Sat, 14 Sep 2024 19:14:49 -0500</pubDate>
+      <guid>https://projectazar.com/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +34,6 @@
       <link>https://projectazar.com/tags/git/</link>
       <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
       <guid>https://projectazar.com/tags/git/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GitHUb</title>
-      <link>https://projectazar.com/tags/github/</link>
-      <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
-      <guid>https://projectazar.com/tags/github/</guid>
       <description></description>
     </item>
     <item>
@@ -160,13 +167,6 @@
       <link>https://projectazar.com/tags/css/</link>
       <pubDate>Sun, 02 Jun 2024 14:25:51 -0500</pubDate>
       <guid>https://projectazar.com/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://projectazar.com/tags/hugo/</link>
-      <pubDate>Sun, 02 Jun 2024 14:25:51 -0500</pubDate>
-      <guid>https://projectazar.com/tags/hugo/</guid>
       <description></description>
     </item>
     <item>

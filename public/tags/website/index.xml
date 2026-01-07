@@ -10,10 +10,10 @@
     <atom:link href="https://projectazar.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating to Github</title>
-      <link>https://projectazar.com/posts/migrating-to-github/</link>
+      <link>https://projectazar.com/posts/published/migrating-to-github/</link>
       <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
-      <guid>https://projectazar.com/posts/migrating-to-github/</guid>
-      <description>Oh. You&amp;rsquo;re back. It&amp;rsquo;s been a while, and let me tell you, the last few months were a hoot. Three depositions, one mediation, thousands of emails, and I bought a house.&#xA;But that&amp;rsquo;s not why you&amp;rsquo;re here. You&amp;rsquo;re here for some technical nonsense.&#xA;&amp;ldquo;Lifetime&amp;rdquo; Hosting When I first started this website, I used a host called iBrave. Sometime last year, I saw a great deal: a lifetime of hosting service for $30, with unlimited bandwidth, and basic features like one-click solutions for platforms like WordPress.</description>
+      <guid>https://projectazar.com/posts/published/migrating-to-github/</guid>
+      <description>&lt;p&gt;Oh. You&amp;rsquo;re back. It&amp;rsquo;s been a while, and let me tell you, the last few months were a hoot. Three depositions, one mediation, thousands of emails, and &lt;em&gt;I bought a house&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;But that&amp;rsquo;s not why you&amp;rsquo;re here. You&amp;rsquo;re here for some technical nonsense.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lifetime-hosting&#34;&gt;&amp;ldquo;Lifetime&amp;rdquo; Hosting&lt;/h2&gt;&#xA;&lt;p&gt;When I first started this website, I used a host called iBrave. Sometime last year, I saw a great deal: a lifetime of hosting service for $30, with unlimited bandwidth, and basic features like one-click solutions for platforms like WordPress. The more experienced in the audience already have alarm klaxons sounding, but I, even knowing this would not last forever, thought it would be worth it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

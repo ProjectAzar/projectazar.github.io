@@ -49,6 +49,10 @@
 
 
 
+  
+  
+  
+
 
 <!-- Open Graph image and Twitter Card metadata -->
 
@@ -59,11 +63,11 @@
     <meta property="og:image:height" content="1000">
     <meta property="og:image:type" content="image/jpeg">
 
-<title itemprop="name">Project Azar</title>
-<meta property="og:title" content=Project&#32;Azar />
-<meta name="twitter:title" content=Project&#32;Azar />
-<meta itemprop="name" content=Project&#32;Azar />
-<meta name="application-name" content=Project&#32;Azar />
+<title itemprop="name">Chris &#34;Project Azar&#34; Teters - I Beat DNS</title>
+<meta property="og:title" content=Chris&#32;&#34;Project&#32;Azar&#34;&#32;Teters&#32;-&#32;I&#32;Beat&#32;DNS />
+<meta name="twitter:title" content=Chris&#32;&#34;Project&#32;Azar&#34;&#32;Teters&#32;-&#32;I&#32;Beat&#32;DNS />
+<meta itemprop="name" content=Chris&#32;&#34;Project&#32;Azar&#34;&#32;Teters&#32;-&#32;I&#32;Beat&#32;DNS />
+<meta name="application-name" content=Chris&#32;&#34;Project&#32;Azar&#34;&#32;Teters&#32;-&#32;I&#32;Beat&#32;DNS />
 <meta property="og:site_name" content="Project Azar" />
 
 
@@ -73,18 +77,17 @@
 <meta name="twitter:description" content="" />
 
 
-<base href="https://projectazar.com/tags/audio/" />
-<link rel="canonical" href="https://projectazar.com/tags/audio/" itemprop="url" />
-<meta name="url" content="https://projectazar.com/tags/audio/" />
-<meta name="twitter:url" content="https://projectazar.com/tags/audio/" />
-<meta property="og:url" content="https://projectazar.com/tags/audio/" />
+<base href="https://projectazar.com/posts/published/i-beat-dns/" />
+<link rel="canonical" href="https://projectazar.com/posts/published/i-beat-dns/" itemprop="url" />
+<meta name="url" content="https://projectazar.com/posts/published/i-beat-dns/" />
+<meta name="twitter:url" content="https://projectazar.com/posts/published/i-beat-dns/" />
+<meta property="og:url" content="https://projectazar.com/posts/published/i-beat-dns/" />
 
 
-<meta property="og:updated_time" content="2024-06-19T13:54:18-05:00" />
+<meta property="og:updated_time" content="2024-09-14T19:14:49-05:00" />
 
 
 <link rel="sitemap" type="application/xml" title="Sitemap" href='https://projectazar.com/sitemap.xml' />
-<link href="https://projectazar.com/tags/audio/index.xml" rel="alternate" type="application/rss+xml" title="Project Azar" />
 
 <meta name="robots" content="index,follow" />
 <meta name="googlebot" content="index,follow" />
@@ -469,25 +472,101 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 </aside>
 
             <main class="content container">
-                <h1 class="title">Audio</h1>
-<ul class="entries">
-    
-        <h3 style="text-align: center;">2024</h3>
-        
-            <li>
-                <span class="title">
-                    <a href="/posts/published/pop-pop-pop-goes-the-speaker/">Pop Pop Pop Goes the Speaker</a>
-                </span>
-                <span class="published">
-                    <time class="pull-right post-list">June 19, 2024</time>
-                </span>
-            </li>
-        
-    
-</ul>
+                <div class="post">
+  <div class="info">
+  <h1 class="post-title">
+    <a href="https://projectazar.com/posts/published/i-beat-dns/">I Beat DNS</a>
+  </h1>
 
+  <div class="headline">
+    <div>
+      
+      <time datetime=" 2024-09-14T19:14:49-0500" class="post-date">
+        September 14, 2024
+      </time>
+      
+      <span> - </span>
+      <span class="reading-time">
+        
+          
+        
+
+        <span>3 mins read</span>
+      </span>
+    </div>
+
+    
+    <ul class="tags">
+      
+      <li class="tag-Hugo">
+        <a href="https://projectazar.com/tags/hugo">Hugo</a>
+      </li>
+      
+      <li class="tag-GitHub">
+        <a href="https://projectazar.com/tags/github">GitHub</a>
+      </li>
+      
+      <li class="tag-DNS">
+        <a href="https://projectazar.com/tags/dns">DNS</a>
+      </li>
+      
+    </ul>
+    
+  </div>
+
+  
+  
+
+  
+</div>
+
+  <p>I promised a short update once I got my website problems figured out, and as I am a man true to my word&hellip;eventually&hellip;here is my brief update.</p>
+<h2 id="dns-defeats-domaincom">DNS Defeats Domain.com</h2>
+<p>In my last post, I mentioned I use Domain.com as my registrar. In general, I&rsquo;ve been happy with them as a service. But when I transitioned away from using nameservers, to using it as a DNS manager for my domain things got a little nasty. Somehow, in the transition, I got the DNS entires into some form of stalled state. Doing bulk edits, I could continue to submit changes, but using the much friendlier single entry system, my changes were blocked instructing me to wait 24 hours.</p>
+<p>But who has that kind of time?</p>
+<p>After fiddling for an hour last night, the block finally cleared and I was able to fix my entries. Initially, my A entries where routing improperly, seemingly using a subdomain rather than routing the apex domain to GitHub&rsquo;s pages servers. Once I got that corrected, I was able to add my WWW subdomain CNAME.</p>
+<p>After a few hours, my domain and subdomains finally started working!</p>
+<p>Yes!</p>
+<p>Only&hellip;the pages stopped loading properly.</p>
+<p>What?!</p>
+<h1 id="pages-is-a-real-jekyll-and-hugo-situation">Pages is a Real Jekyll and Hugo Situation</h1>
+<p>I noticed my repo suddenly had two workflows in it, seemingly operating at the same time. One was the Hugo workflow I added to let GitHub handle processing my raw website. The other had no workflow file attached to it, but seemed to be processing web files as well.</p>
+<p>Looking into the workflow, I noticed it mentioned Jekyll. I remember looking at Jekyll at the beginning of this project and deciding against it for a reason that certainly made sense at the time. However, I do not recall ever adding Jekyll to this website. So what gives?</p>
+<p>Well, it turns out GitHub can process Jekyll files natively and it tries to be rather smart about it. In the settings of the repo, there is a section labeled Pages. On the Pages tab you get the option to process your pages either using a GitHub Action or to &ldquo;Deploy from Branch.&rdquo; It turns out, Deploy from Branch means that your website is expecting Jekyll input files, and, when it does not find the files, it throws a 404.</p>
+<p>This also explains why I was unable to set &ldquo;Enforce HTTPS.&rdquo; It couldn&rsquo;t do so, because, at its core, there was no website to generate an SSL cert, at least from GitHub&rsquo;s automated perspective.</p>
+<p>Reverting this setting back to &ldquo;GitHub Actions&rdquo; and rerunning the Hugo workflow, behold: a website.</p>
+<p>And now with HTTPS and a functioning www subdomain.</p>
+<p>With that, I am fully migrated.</p>
+<p>Until next time.</p>
+
+  
+  <hr>
+<div class="footer">
+    
+	    
+            <a class="previous-post" href="https://projectazar.com/posts/published/migrating-to-github/?ref=footer"><span style="font-weight:bold;">« Previous</span><br>Migrating to Github</a>
+        
+	    
+    
+</div>
+
+</div>
             </main>
             
+  
+    <div class="article-toc ">
+    <div class="toc-wrapper">
+      <h4 id="contents"></h4>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#dns-defeats-domaincom">DNS Defeats Domain.com</a></li>
+  </ul>
+</nav>
+    </div>
+</div>
+
+  
+
         </div>
     </body>
 </html>

@@ -13,14 +13,14 @@
       <link>https://projectazar.com/posts/published/adding-authors/</link>
       <pubDate>Thu, 30 May 2024 22:27:54 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/adding-authors/</guid>
-      <description>I spent a good chunk of last night playing around with trying to get an author, bio, and pic to appear on my posts. I have not had much of a reason to play with templates, and the tutorial I followed injected their own preferences while failing to offer much of a discussion on how to do things. So I figured I would write up what I did in case I need to do it again with a new template/theme or at a later date.</description>
+      <description>&lt;p&gt;I spent a good chunk of last night playing around with trying to get an author, bio, and pic to appear on my posts. I have not had much of a reason to play with templates, and the tutorial I followed injected their own preferences while failing to offer much of a discussion on how to do things. So I figured I would write up what I did in case I need to do it again with a new template/theme or at a later date.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo Lives</title>
       <link>https://projectazar.com/posts/published/hugo-lives/</link>
       <pubDate>Wed, 29 May 2024 22:32:40 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/hugo-lives/</guid>
-      <description>A New Venue for My Learning I&amp;rsquo;ve had this webspace for nearly a year and I&amp;rsquo;ve done absolutely nothing with it. No longer! I was motivated briefly to update my domain on bluesky, but I had not added anything to this website. So I decided to start diving into static website generators like I had wanted to for a long while.&#xA;I initially started with Pelican, but I got annoyed with the limited documentation on how to get the theme to actually play nice with my webhosts insistence that all files go into the &amp;ldquo;public_html&amp;rdquo; folder.</description>
+      <description>&lt;h2 id=&#34;a-new-venue-for-my-learning&#34;&gt;A New Venue for My Learning&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve had this webspace for nearly a year and I&amp;rsquo;ve done absolutely nothing with it. No longer! I was motivated briefly to update my domain on bluesky, but I had not added anything to this website. So I decided to start diving into static website generators like I had wanted to for a long while.&lt;/p&gt;&#xA;&lt;p&gt;I initially started with Pelican, but I got annoyed with the limited documentation on how to get the theme to actually play nice with my webhosts insistence that all files go into the &amp;ldquo;public_html&amp;rdquo; folder. I could have done something different, rather than use the built in file uploader, but I didn&amp;rsquo;t want to get too fancy.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

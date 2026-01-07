@@ -13,7 +13,7 @@
       <link>https://projectazar.com/posts/published/adventures-in-lspsitting/</link>
       <pubDate>Tue, 04 Jun 2024 22:43:29 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/adventures-in-lspsitting/</guid>
-      <description>I&amp;rsquo;m fairly confident I&amp;rsquo;ve mentioned that I&amp;rsquo;m generally incompetent when it comes to the core competencies of a programmer. I am still learning the terminology for concepts I&amp;rsquo;ve used in the past like language formatting and completion in an IDE, while deploying them in my preferred &amp;ldquo;IDE&amp;rdquo; of choice, which is Neovim these days. Perhaps, as I continue this project of learning and writing about learing through this blog, I&amp;rsquo;ll bother to figure out how to properly use things like nvim-lsp and mason.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m fairly confident I&amp;rsquo;ve mentioned that I&amp;rsquo;m generally incompetent when it comes to the core competencies of a programmer. I am still learning the terminology for concepts I&amp;rsquo;ve used in the past like language formatting and completion in an IDE, while deploying them in my preferred &amp;ldquo;IDE&amp;rdquo; of choice, which is Neovim these days. Perhaps, as I continue this project of learning and writing about learing through this blog, I&amp;rsquo;ll bother to figure out how to properly use things like nvim-lsp and mason.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

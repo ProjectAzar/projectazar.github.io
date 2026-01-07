@@ -6,84 +6,91 @@
     <description>Recent content in Posts on Project Azar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Sep 2024 15:26:39 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 19:14:49 -0500</lastBuildDate>
     <atom:link href="https://projectazar.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>I Beat DNS</title>
+      <link>https://projectazar.com/posts/published/i-beat-dns/</link>
+      <pubDate>Sat, 14 Sep 2024 19:14:49 -0500</pubDate>
+      <guid>https://projectazar.com/posts/published/i-beat-dns/</guid>
+      <description>&lt;p&gt;I promised a short update once I got my website problems figured out, and as I am a man true to my word&amp;hellip;eventually&amp;hellip;here is my brief update.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dns-defeats-domaincom&#34;&gt;DNS Defeats Domain.com&lt;/h2&gt;&#xA;&lt;p&gt;In my last post, I mentioned I use Domain.com as my registrar. In general, I&amp;rsquo;ve been happy with them as a service. But when I transitioned away from using nameservers, to using it as a DNS manager for my domain things got a little nasty. Somehow, in the transition, I got the DNS entires into some form of stalled state. Doing bulk edits, I could continue to submit changes, but using the much friendlier single entry system, my changes were blocked instructing me to wait 24 hours.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Migrating to Github</title>
-      <link>https://projectazar.com/posts/migrating-to-github/</link>
+      <link>https://projectazar.com/posts/published/migrating-to-github/</link>
       <pubDate>Fri, 13 Sep 2024 15:26:39 -0500</pubDate>
-      <guid>https://projectazar.com/posts/migrating-to-github/</guid>
-      <description>Oh. You&amp;rsquo;re back. It&amp;rsquo;s been a while, and let me tell you, the last few months were a hoot. Three depositions, one mediation, thousands of emails, and I bought a house.&#xA;But that&amp;rsquo;s not why you&amp;rsquo;re here. You&amp;rsquo;re here for some technical nonsense.&#xA;&amp;ldquo;Lifetime&amp;rdquo; Hosting When I first started this website, I used a host called iBrave. Sometime last year, I saw a great deal: a lifetime of hosting service for $30, with unlimited bandwidth, and basic features like one-click solutions for platforms like WordPress.</description>
+      <guid>https://projectazar.com/posts/published/migrating-to-github/</guid>
+      <description>&lt;p&gt;Oh. You&amp;rsquo;re back. It&amp;rsquo;s been a while, and let me tell you, the last few months were a hoot. Three depositions, one mediation, thousands of emails, and &lt;em&gt;I bought a house&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;But that&amp;rsquo;s not why you&amp;rsquo;re here. You&amp;rsquo;re here for some technical nonsense.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lifetime-hosting&#34;&gt;&amp;ldquo;Lifetime&amp;rdquo; Hosting&lt;/h2&gt;&#xA;&lt;p&gt;When I first started this website, I used a host called iBrave. Sometime last year, I saw a great deal: a lifetime of hosting service for $30, with unlimited bandwidth, and basic features like one-click solutions for platforms like WordPress. The more experienced in the audience already have alarm klaxons sounding, but I, even knowing this would not last forever, thought it would be worth it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Admitting Defeat</title>
       <link>https://projectazar.com/posts/published/admitting-defeat/</link>
       <pubDate>Mon, 24 Jun 2024 21:13:54 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/admitting-defeat/</guid>
-      <description>Well, my desktop Linux experiment comes to an end for now, with a caveat.&#xA;After two weeks of trying to get comfortable with Wayland or dated X11, I&amp;rsquo;m putting a pause on my efforts to make the desktop switch, but I think it will truly only be a pause for now. The Nvidia situation is just not yet where it needs to be for me to be a happy camper. My options are either (a) use a display system that is no longer supported in my distro of choice, forcing me into another distro or (b) just get used to things like random crashing, window flickering, delayed text, and half solutions like explicit sync.</description>
+      <description>&lt;p&gt;Well, my desktop Linux experiment comes to an end for now, with a caveat.&lt;/p&gt;&#xA;&lt;p&gt;After two weeks of trying to get comfortable with Wayland or dated X11, I&amp;rsquo;m putting a pause on my efforts to make the desktop switch, but I think it will truly only be a pause for now. The Nvidia situation is just not yet where it needs to be for me to be a happy camper. My options are either (a) use a display system that is no longer supported in my distro of choice, forcing me into another distro or (b) just get used to things like random crashing, window flickering, delayed text, and half solutions like explicit sync.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lazy Is Anything But</title>
       <link>https://projectazar.com/posts/published/lazy-is-anything-but/</link>
       <pubDate>Thu, 20 Jun 2024 22:13:07 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/lazy-is-anything-but/</guid>
-      <description>Today I had a Hal with the Light Bulb moment.&#xA;The Switch Doesn&amp;rsquo;t Work I wanted to install a new package into Neovim so I could mess around with Neorg, an org-mode-like plugin. I want to try to get better at organizing myself and actually get working on creating things I want to do. The impetus for Neorg was a desire to start working on scripts for a podcast idea: &amp;ldquo;Uninteresting Stories to Induce Sleep.</description>
+      <description>&lt;p&gt;Today I had a Hal with the Light Bulb moment.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/AbSehcT19u0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;the-switch-doesnt-work&#34;&gt;The Switch Doesn&amp;rsquo;t Work&lt;/h2&gt;&#xA;&lt;p&gt;I wanted to install a new package into Neovim so I could mess around with Neorg, an org-mode-like plugin. I want to try to get better at organizing myself and actually get working on creating things I want to do. The impetus for Neorg was a desire to start working on scripts for a podcast idea: &amp;ldquo;Uninteresting Stories to Induce Sleep.&amp;rdquo; The podcast would basically be an ASMR affair where I would tell you about some weird thing I researched that is utterly uninteresting. I find I sleep well when I hear normal people talk about things that are mildly interesting, but not enough to keep me awake. Think woodworking or car maintenance videos without any music.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pop Pop Pop Goes the Speaker</title>
       <link>https://projectazar.com/posts/published/pop-pop-pop-goes-the-speaker/</link>
       <pubDate>Wed, 19 Jun 2024 13:54:18 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/pop-pop-pop-goes-the-speaker/</guid>
-      <description>I&amp;rsquo;m using this blog as a log of troubleshooting steps I&amp;rsquo;ve done before, so I don&amp;rsquo;t waste my time the next time I nuke my computer and try again. We&amp;rsquo;ll see if this is ever really helpful.&#xA;Today&amp;rsquo;s bug: audio-popping and lag when audio starts playing after sitting idle for a while.&#xA;Ah, this is a classic. I know I&amp;rsquo;ve solved this bug probably a dozen times in my life with Linux.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m using this blog as a log of troubleshooting steps I&amp;rsquo;ve done before, so I don&amp;rsquo;t waste my time the next time I nuke my computer and try again. We&amp;rsquo;ll see if this is ever really helpful.&lt;/p&gt;&#xA;&lt;p&gt;Today&amp;rsquo;s bug: audio-popping and lag when audio starts playing after sitting idle for a while.&lt;/p&gt;&#xA;&lt;p&gt;Ah, this is a classic. I know I&amp;rsquo;ve solved this bug probably a dozen times in my life with Linux. And everytime it happens, I&amp;rsquo;ve forgotten its cause and the solution. Nevertheless, I do usually manage to solve this problem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Whyland</title>
       <link>https://projectazar.com/posts/published/whyland/</link>
       <pubDate>Tue, 18 Jun 2024 22:58:43 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/whyland/</guid>
-      <description>A short update today. I decided to try Fedora again, in part, due to a desire to get on to Wayland due to a sense of just instability I was experiencing in X11 (which I could not adequately identify) and because I just generally like the set of tools in Fedora more than the tools found in stock Ubuntu. Generally I mean I like dnf more than apt, I like some of the included software more (this isn&amp;rsquo;t a big deal and not worth a switch, just a minor preference).</description>
+      <description>&lt;p&gt;A short update today. I decided to try Fedora again, in part, due to a desire to get on to Wayland due to a sense of just instability I was experiencing in X11 (which I could not adequately identify) and because I just generally like the set of tools in Fedora more than the tools found in stock Ubuntu. Generally I mean I like dnf more than apt, I like some of the included software more (this isn&amp;rsquo;t a big deal and not worth a switch, just a minor preference). These preferences don&amp;rsquo;t make sense and aren&amp;rsquo;t really worth thinking about, I just happen to like Fedora.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is It Time for Desktop Linux</title>
       <link>https://projectazar.com/posts/published/is-it-time-for-desktop-linux/</link>
       <pubDate>Sun, 09 Jun 2024 19:52:04 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/is-it-time-for-desktop-linux/</guid>
-      <description>You&amp;rsquo;ve likely heard by now about the impending nonsense coming to those of us still living in Windows land. If you haven&amp;rsquo;t, let me give you a few of the particular annoyances I&amp;rsquo;ve got with the 2024 planned changes:&#xA;AI incorporation into all aspects of the OS. Source Capturing every aspect of your computer, Source despite all the possible concerns associated with that idea. Source Even more advertising throughout the OS.</description>
+      <description>&lt;p&gt;You&amp;rsquo;ve likely heard by now about the impending nonsense coming to those of us still living in Windows land. If you haven&amp;rsquo;t, let me give you a few of the particular annoyances I&amp;rsquo;ve got with the 2024 planned changes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI incorporation into all aspects of the OS. &lt;a href=&#34;https://www.engadget.com/microsoft-rebuilt-windows-11-around-ai-and-arm-chips-173152776.html&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Capturing every aspect of your computer, &lt;a href=&#34;https://support.microsoft.com/en-us/windows/retrace-your-steps-with-recall-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt; despite all the possible concerns associated with that idea. &lt;a href=&#34;https://www.forbes.com/sites/zakdoffman/2024/06/07/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Even more advertising throughout the OS. &lt;a href=&#34;https://www.techradar.com/computing/windows/microsoft-stoops-to-new-low-with-ads-in-windows-11-as-pc-manager-tool-suggests-your-system-needs-repairing-if-you-dont-use-bing&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;From everything I can see coming, Windows 11, despite genuinely being a pretty decent user experience all things considered, is only going to get harder and harder to avoid all the nonsense Microsoft wants me to experience. At the same time, I&amp;rsquo;ve recently decided to try out the MacOS world. In fact, this post, and all elements of this website, have been developed using a Macbook Pro, and I&amp;rsquo;ve genuinely enjoyed my time with the device. But I am a PC gamer at heart, and I have no interest in dumping one of my well cared for baby. So, faced with a degrading OS experience and a bleak future, I figured it is time to once again consider running Linux on my desktop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adventures in LSP-sitting</title>
       <link>https://projectazar.com/posts/published/adventures-in-lspsitting/</link>
       <pubDate>Tue, 04 Jun 2024 22:43:29 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/adventures-in-lspsitting/</guid>
-      <description>I&amp;rsquo;m fairly confident I&amp;rsquo;ve mentioned that I&amp;rsquo;m generally incompetent when it comes to the core competencies of a programmer. I am still learning the terminology for concepts I&amp;rsquo;ve used in the past like language formatting and completion in an IDE, while deploying them in my preferred &amp;ldquo;IDE&amp;rdquo; of choice, which is Neovim these days. Perhaps, as I continue this project of learning and writing about learing through this blog, I&amp;rsquo;ll bother to figure out how to properly use things like nvim-lsp and mason.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m fairly confident I&amp;rsquo;ve mentioned that I&amp;rsquo;m generally incompetent when it comes to the core competencies of a programmer. I am still learning the terminology for concepts I&amp;rsquo;ve used in the past like language formatting and completion in an IDE, while deploying them in my preferred &amp;ldquo;IDE&amp;rdquo; of choice, which is Neovim these days. Perhaps, as I continue this project of learning and writing about learing through this blog, I&amp;rsquo;ll bother to figure out how to properly use things like nvim-lsp and mason.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Menus Menus MENUS (and Tags)</title>
       <link>https://projectazar.com/posts/menus/menus-and-tags/</link>
       <pubDate>Sun, 02 Jun 2024 14:25:51 -0500</pubDate>
       <guid>https://projectazar.com/posts/menus/menus-and-tags/</guid>
-      <description>In which, I learn how to poke at CSS until I get it to do what I want.&#xA;A Menu in So Many Words I am continuing my journey into learning about Hugo, and today I wanted to implement both a navigation menu in the side bar and tags on my posts. I began with the menu, thinking this would be easier than tags (Spoiler Alert: I was wrong).&#xA;Poison, my theme for this website, has a ready made layout for depolying a menu in the sidebar, but I didn&amp;rsquo;t like the defaults.</description>
+      <description>&lt;p&gt;In which, I learn how to poke at CSS until I get it to do what I want.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-menu-in-so-many-words&#34;&gt;A Menu in So Many Words&lt;/h2&gt;&#xA;&lt;p&gt;I am continuing my journey into learning about Hugo, and today I wanted to implement both a navigation menu in the side bar and tags on my posts. I began with the menu, thinking this would be easier than tags (Spoiler Alert: I was wrong).&lt;/p&gt;&#xA;&lt;p&gt;Poison, my theme for this website, has a ready made layout for depolying a menu in the sidebar, but I didn&amp;rsquo;t like the defaults. The text did not have the weight I wanted, it was vertical rather than horizontal, and it had a substantial amount of space between the items. This is largely driven by the ability to quickly do nested menus, which isn&amp;rsquo;t a feature I need at the moment (nor one I anticipate needing in the near future).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schemeing for a Theming</title>
       <link>https://projectazar.com/posts/published/schemeing-for-a-theming/</link>
       <pubDate>Fri, 31 May 2024 21:02:07 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/schemeing-for-a-theming/</guid>
-      <description>Well then&amp;hellip;.I guess the last post didn&amp;rsquo;t remain relevant for long.&#xA;A New Theme I wanted to play around with theming this website, and I decided to go poking around on https://themes.gohugo.io/. I poked around at a few themes and decided to land on a theme called Poison by Luke Orth. A link to the theme github is on the side bar.&#xA;I chose this theme for a few reaons. First, I really enjoyed the layout.</description>
+      <description>&lt;p&gt;Well then&amp;hellip;.I guess the last post didn&amp;rsquo;t remain relevant for long.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-new-theme&#34;&gt;A New Theme&lt;/h2&gt;&#xA;&lt;p&gt;I wanted to play around with theming this website, and I decided to go poking around on &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34;&gt;https://themes.gohugo.io/&lt;/a&gt;. I poked around at a few themes and decided to land on a theme called Poison by Luke Orth. A link to the theme github is on the side bar.&lt;/p&gt;&#xA;&lt;p&gt;I chose this theme for a few reaons. First, I really enjoyed the layout. It is simple, gets to the point, and provides for sufficient customization to make it my own. The focus is on the content, without requiring a lot of customization to make the content what I want.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adding Authors</title>
       <link>https://projectazar.com/posts/published/adding-authors/</link>
       <pubDate>Thu, 30 May 2024 22:27:54 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/adding-authors/</guid>
-      <description>I spent a good chunk of last night playing around with trying to get an author, bio, and pic to appear on my posts. I have not had much of a reason to play with templates, and the tutorial I followed injected their own preferences while failing to offer much of a discussion on how to do things. So I figured I would write up what I did in case I need to do it again with a new template/theme or at a later date.</description>
+      <description>&lt;p&gt;I spent a good chunk of last night playing around with trying to get an author, bio, and pic to appear on my posts. I have not had much of a reason to play with templates, and the tutorial I followed injected their own preferences while failing to offer much of a discussion on how to do things. So I figured I would write up what I did in case I need to do it again with a new template/theme or at a later date.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo Lives</title>
       <link>https://projectazar.com/posts/published/hugo-lives/</link>
       <pubDate>Wed, 29 May 2024 22:32:40 -0500</pubDate>
       <guid>https://projectazar.com/posts/published/hugo-lives/</guid>
-      <description>A New Venue for My Learning I&amp;rsquo;ve had this webspace for nearly a year and I&amp;rsquo;ve done absolutely nothing with it. No longer! I was motivated briefly to update my domain on bluesky, but I had not added anything to this website. So I decided to start diving into static website generators like I had wanted to for a long while.&#xA;I initially started with Pelican, but I got annoyed with the limited documentation on how to get the theme to actually play nice with my webhosts insistence that all files go into the &amp;ldquo;public_html&amp;rdquo; folder.</description>
+      <description>&lt;h2 id=&#34;a-new-venue-for-my-learning&#34;&gt;A New Venue for My Learning&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve had this webspace for nearly a year and I&amp;rsquo;ve done absolutely nothing with it. No longer! I was motivated briefly to update my domain on bluesky, but I had not added anything to this website. So I decided to start diving into static website generators like I had wanted to for a long while.&lt;/p&gt;&#xA;&lt;p&gt;I initially started with Pelican, but I got annoyed with the limited documentation on how to get the theme to actually play nice with my webhosts insistence that all files go into the &amp;ldquo;public_html&amp;rdquo; folder. I could have done something different, rather than use the built in file uploader, but I didn&amp;rsquo;t want to get too fancy.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

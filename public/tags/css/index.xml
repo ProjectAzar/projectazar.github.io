@@ -13,7 +13,7 @@
       <link>https://projectazar.com/posts/menus/menus-and-tags/</link>
       <pubDate>Sun, 02 Jun 2024 14:25:51 -0500</pubDate>
       <guid>https://projectazar.com/posts/menus/menus-and-tags/</guid>
-      <description>In which, I learn how to poke at CSS until I get it to do what I want.&#xA;A Menu in So Many Words I am continuing my journey into learning about Hugo, and today I wanted to implement both a navigation menu in the side bar and tags on my posts. I began with the menu, thinking this would be easier than tags (Spoiler Alert: I was wrong).&#xA;Poison, my theme for this website, has a ready made layout for depolying a menu in the sidebar, but I didn&amp;rsquo;t like the defaults.</description>
+      <description>&lt;p&gt;In which, I learn how to poke at CSS until I get it to do what I want.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-menu-in-so-many-words&#34;&gt;A Menu in So Many Words&lt;/h2&gt;&#xA;&lt;p&gt;I am continuing my journey into learning about Hugo, and today I wanted to implement both a navigation menu in the side bar and tags on my posts. I began with the menu, thinking this would be easier than tags (Spoiler Alert: I was wrong).&lt;/p&gt;&#xA;&lt;p&gt;Poison, my theme for this website, has a ready made layout for depolying a menu in the sidebar, but I didn&amp;rsquo;t like the defaults. The text did not have the weight I wanted, it was vertical rather than horizontal, and it had a substantial amount of space between the items. This is largely driven by the ability to quickly do nested menus, which isn&amp;rsquo;t a feature I need at the moment (nor one I anticipate needing in the near future).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
